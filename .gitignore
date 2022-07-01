@@ -5,6 +5,7 @@
 *.xlsx
 .DS_Store
 data/*
+log/*
 *.pdf
 
 # Byte-compiled / optimized / DLL files
